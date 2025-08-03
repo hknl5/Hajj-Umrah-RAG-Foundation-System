@@ -1,0 +1,465 @@
+1.2 ENG ‫اﻧﺠﻠﻴﺰي‬
+
+Cybersecurity
+
+Awareness Guide
+for Pilgrims
+
+Strategic Partner
+
+This guide is available in the
+following languages and
+you can download them by
+clicking on them:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents of the
+Cybersecurity
+Awareness Guide
+Click on the title to go to the desired page
+
+The Importance of
+Cybersecurity
+Awareness during Hajj
+and Umrah Season
+Social Engineering
+Techniques, Phishing
+and How to Avoid Them
+Set passcode and
+enable biometric
+authentication
+
+Safe Internet
+Browsing
+
+Application
+Security
+Install updates for
+devices
+
+One-Time
+Password (OTP)
+Lost Phone and
+the Importance of
+Backup
+Websites and
+Applications of
+Interest
+Important Numbers
+
+The Importance of
+Cybersecurity Awareness
+
+during Hajj and Umrah Season
+
+Attackers use evolving tricks
+
+to launch cyber attacks
+
+whether through fake websites, applications,
+phishing messages, or other deceptions.
+They often rely on exploiting human factors
+and unsafe cyber practices that individuals
+may engage in.
+
+Hence,
+
+the importance of cybersecurity awareness
+comes as one of the first lines of defense
+against the ever-evolving cyber threats
+witnessed in cyberspace.
+
+
+Cyber awareness serves
+
+as a primary line of defense
+in reducing the risks posed by
+
+emerging threats in the digital realm
+
+Video link
+
+Social Engineering
+Techniques, Phishing
+and How to Avoid Them
+
+Social engineering involves
+using tricks and manipulation
+tactics against targeted
+individuals
+
+to coerce them into disclosing sensitive
+information or performing actions that
+compromise their cybersecurity.
+
+Techniques an attacker may use in social
+engineering attacks include:
+Impersonating a known and trusted entity.
+Impersonating someone you know.
+Pretending to be an entity requesting to update
+or verify your information.
+Offering tempting discounts related to Hajj and
+Umrah.
+
+Impersonating government agencies or
+companies providing Hajj and Umrah services.
+
+
+Social Engineering
+Techniques, Phishing
+and How to Avoid Them
+
+Phishing is one of the most
+prominent forms of social
+engineering, attempting to
+steal sensitive data, hijack
+accounts, or compromise
+devices.
+
+Communication channels
+used for phishing include:
+
+1
+
+Fake links, websites,
+and applications.
+Social media platforms.
+Text messages.
+Phone calls.
+
+
+Social Engineering
+Techniques, Phishing
+and How to Avoid Them
+
+To mitigate phishing risks,
+be sure to:
+Use official and trusted
+websites.
+Download applications
+from known sources.
+Avoid clicking on links
+from untrusted sources.
+Limit sharing personal and
+sensitive information.
+
+
+Setting passcode and
+enabling biometric authentication
+
+It holds significant importance
+and plays a crucial role in
+contributing to:
+
+1
+
+User identity
+authentication.
+Protection against
+unauthorized access.
+Sensitive data protection.
+
+
+Setting passcode and
+enabling biometric authentication
+
+
+Setting passcode and
+enabling biometric authentication
+
+
+Setting passcode and
+enabling biometric authentication
+
+
+Safe Internet Browsing
+
+Browsing the internet
+
+may expose you to various cyber threats,
+including:
+Infecting your device with
+malware.
+Stealing personal and
+sensitive data like
+usernames and passwords.
+Encountering fake
+websites.
+
+Avoid
+
+Interacting with links or messages
+from untrusted sources.
+
+
+Safe Internet Browsing
+
+Attackers create fake websites to
+achieve various goals, such as:
+Stealing login credentials.
+Collecting as much data as possible.
+Conducting phishing and fraud activities.
+
+Remember
+
+Fake websites may appear
+identical to legitimate ones, so
+ensure you verify the correct
+URL before visiting a website.
+
+
+Safe Internet Browsing
+
+
+
+
+
+The fake
+website
+
+The original
+website
+
+You can access the Haramain
+High-Speed Railway website by
+typing the following URL:
+
+https://sar.hhr.sa
+
+Safe Internet Browsing
+For safe internet
+browsing, be sure to:
+
+1
+
+Keep your browser
+up-to-date.
+Review your browser's
+security and privacy
+settings.
+Avoid visiting suspicious
+and untrusted websites.
+
+
+Application Security
+
+To contribute to securing applications
+and mitigating cyber risks that may
+arise from downloading or using them,
+be sure to:
+
+Download
+
+Limit
+
+Applications from
+known sources.
+
+Permissions granted to
+applications to the
+minimum required.
+
+Enable
+
+Avoid
+
+Automatic updates
+for all applications.
+
+Installing applications
+from outside official app
+stores.
+
+Use only trusted
+
+websites and applications.
+
+
+Application Security
+Download applications
+
+from device marketplaces
+
+17:03
+
+‫ﺑﺤﺚ‬
+
+‫ﺑﺤﺚ‬
+
+Google Play
+
+App Store
+
+‫ﺑﺤﺚ‬
+
+App Gallery
+
+When you want to download an
+application, it is essential to ensure
+that you:
+Verify the credibility of the
+application developer.
+View the application rating and
+the feedback provided by users.
+
+
+Install updates
+for devices and applications
+Installing updates is a preventative action
+that ensures your security
+Security updates serve as a
+means to address vulnerabilities
+that may be exploitedby
+attackers.
+
+Installing it:
+
+prevents exploitation and
+illegal use.
+increases the level of security.
+Remember, It is advisable to obtain updates
+exclusively from reliable sources and to
+refrain from downloading them from sources
+that cannot be trusted.
+To maximize its benefits,
+activate the automatic update
+feature to guarantee the prompt
+installation of updates as they
+become available.
+
+
+Install updates
+on iOS
+
+
+Install updates
+on Android
+
+
+Install updates
+on Huawei
+
+
+One-Time Password
+OTP
+A one-time password is used to verify a user's
+identity or complete a specific online process.
+Attackers attempt to obtain it for unauthorized
+access to accounts or to complete fraudulent
+online transactions.
+
+For safe handling of OTPs, be sure to:
+Never share your OTP.
+Ignore communications or messages
+requesting you to disclose your OTP.
+
+Remember
+
+426
+MyBank
+
+The OTP is for
+your use only,
+do not share it
+with others.
+
+Text Message
+Today 13:11
+
+Did you request a reset password for
+your bank account?
+Delete this message if you did.
+Otherwise, send cancel + OTP code that
+you received to us
+
+
+Lost Phone
+
+and the Importance of
+Backup
+
+Losing your mobile phone may expose
+you to various cyber risks, including
+unauthorized access to your device, data,
+and accounts. Therefore, be sure to:
+Use an identity verification method to
+prevent unauthorized access to the device.
+Enable location tracking to locate your
+device if lost.
+Ensure you can remotely wipe data stored
+on the device.
+
+Perform regular backups, as they help
+you recover your data in case of device
+loss or damage.
+
+Ensure
+
+You back up your important data
+regularly.
+
+
+Websites and
+Applications of Interest:
+Click on the title to go to the desired page
+
+
+Important Numbers
+
+
+For emergencies and security
+services
+
+
+For medical consultations and
+inquiries
+
+
+Ministry of Hajj and Umrah contact
+center to answer inquiries from
+guests of the Most Merciful
+
+
+For inquiries regarding the Grand
+Mosque and the Prophet's Mosque
+
+You can obtain the rest of the
+awareness guides by visiting
+the Ministry of Hajj and Umrah
+website (by clicking here).
+You will find in these guides all the
+instructions and guidance to help you
+perform the rituals with ease and
+peace of mind...
+
+Our Partners in
+Success
+
+Strategic Partner
+
+May Allah accept
+your deeds and
+efforts, and may
+you remain safe
+For more awareness
+information, follow us on
+our Twitter account
+
+

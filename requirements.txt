@@ -1,0 +1,34 @@
+# Step 1 Foundation System Requirements
+# Advanced Islamic Pilgrimage RAG System
+
+# Core ML/AI libraries
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+transformers>=4.30.0
+torch>=2.0.0
+numpy>=1.24.0
+
+# LangChain for document processing
+langchain>=0.1.0
+langchain-community>=0.0.13
+ollama>=0.1.7
+
+# Data processing
+pandas>=2.1.0
+tiktoken>=0.5.0
+
+# Utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+
+# Optional: GPU acceleration (uncomment if you have CUDA)
+# faiss-gpu>=1.7.4
+# torch>=2.0.0+cu118
+
+# Development and testing
+pytest>=7.4.0
+jupyter>=1.0.0
+
+# Note: This system uses Qwen2.5:7b via Ollama
+# Install Ollama separately from: https://ollama.ai/
+# Then run: ollama pull qwen2.5:7b
